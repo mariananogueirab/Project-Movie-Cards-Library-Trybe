@@ -15,7 +15,7 @@ function App() {
 }
 
 MovieList.propTypes = {
-  movies: PropTypes.objectOf(PropTypes.array),
+  
 };
 
 export default App;
